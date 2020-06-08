@@ -1203,10 +1203,6 @@ Wire Wire Line
 	4050 1300 4500 1300
 Wire Wire Line
 	4050 1500 4500 1500
-Wire Wire Line
-	1450 1400 1350 1400
-Wire Wire Line
-	3450 1400 3350 1400
 Text GLabel 3350 1400 0    39   Input ~ 0
 VDD_core
 Text GLabel 4300 1700 0    39   Input ~ 0
@@ -1268,4 +1264,34 @@ F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 3750 1300 50  0001 C CNN
 	1    3750 1300
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	1350 1400 1450 1400
+Wire Wire Line
+	3350 1400 3400 1400
+$Comp
+L power:GND #PWR?
+U 1 1 5EE071BC
+P 6950 1750
+F 0 "#PWR?" H 6950 1500 50  0001 C CNN
+F 1 "GND" H 6955 1577 50  0000 C CNN
+F 2 "" H 6950 1750 50  0001 C CNN
+F 3 "" H 6950 1750 50  0001 C CNN
+	1    6950 1750
+	1    0    0    -1  
+$EndComp
+Connection ~ 6950 1750
+$Comp
+L power:+1V0 #PWR?
+U 1 1 5EE07C4B
+P 3400 1400
+F 0 "#PWR?" H 3400 1250 50  0001 C CNN
+F 1 "+1V0" H 3415 1573 50  0000 C CNN
+F 2 "" H 3400 1400 50  0001 C CNN
+F 3 "" H 3400 1400 50  0001 C CNN
+	1    3400 1400
+	1    0    0    -1  
+$EndComp
+Connection ~ 3400 1400
+Wire Wire Line
+	3400 1400 3450 1400
 $EndSCHEMATC

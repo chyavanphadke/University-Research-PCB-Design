@@ -1203,10 +1203,6 @@ Wire Wire Line
 	4050 1300 4500 1300
 Wire Wire Line
 	4050 1500 4500 1500
-Wire Wire Line
-	1450 1400 1350 1400
-Wire Wire Line
-	3450 1400 3350 1400
 Text GLabel 3350 1400 0    39   Input ~ 0
 VDD_core
 Text GLabel 4300 1700 0    39   Input ~ 0
@@ -1268,4 +1264,8 @@ F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 3750 1300 50  0001 C CNN
 	1    3750 1300
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	1350 1400 1450 1400
+Wire Wire Line
+	3350 1400 3450 1400
 $EndSCHEMATC
