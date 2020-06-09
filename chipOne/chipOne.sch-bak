@@ -401,7 +401,7 @@ Wire Wire Line
 	6850 1150 6950 1150
 Text GLabel 6850 1750 0    60   Input ~ 0
 VSSQ
-Text GLabel 6850 1150 0    39   Input ~ 0
+Text GLabel 6850 1150 0    59   Input ~ 12
 gnd
 Text GLabel 6850 1550 0    39   Input ~ 0
 VSS_core
@@ -992,7 +992,7 @@ L chip1:CHIP1 U5
 U 1 1 5EDC939D
 P 8100 5750
 F 0 "U5" H 7400 3600 60  0000 L CNN
-F 1 "CHIP1" H 8500 5150 118 0000 L CNB
+F 1 "CHIP1" H 8400 5050 118 0000 L CNB
 F 2 "chip1:280-5205-01" H 8100 5750 60  0001 C CNN
 F 3 "" H 8100 5750 60  0001 C CNN
 	1    8100 5750
@@ -1266,6 +1266,186 @@ F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 3750 1300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 1400 1450 1400
+$Comp
+L U4164AlogicAnalyser:5767007-8 J3
+U 1 1 5EDFE2BC
+P 13850 5050
+F 0 "J3" H 13850 6315 50  0000 C CNN
+F 1 "5767007-8" H 13850 6224 50  0000 C CNN
+F 2 "TE_5767007-8" H 13850 5050 50  0001 L BNN
+F 3 "Compliant" H 13850 5050 50  0001 L BNN
+F 4 "5767007-8" H 13850 5050 50  0001 L BNN "Field4"
+F 5 "Connector" H 13850 5050 50  0001 L BNN "Field5"
+F 6 "38" H 13850 5050 50  0001 L BNN "Field6"
+F 7 ".64" H 13850 5050 50  0001 L BNN "Field7"
+	1    13850 5050
+	1    0    0    -1  
+$EndComp
+Text GLabel 14350 4250 2    60   Input ~ 0
+I_clk
+Text GLabel 14350 4350 2    60   Input ~ 0
+B_inData_bi1
+Text GLabel 14350 4450 2    60   Input ~ 0
+B_inData_bi0
+Text GLabel 14350 4550 2    60   Input ~ 0
+O_outData7
+Text GLabel 14350 4650 2    60   Input ~ 0
+O_outData6
+Text GLabel 14350 4750 2    60   Input ~ 0
+O_outData5
+Text GLabel 14350 4850 2    60   Input ~ 0
+O_outData4
+Text GLabel 14350 4950 2    60   Input ~ 0
+O_outData3
+Text GLabel 14350 5050 2    60   Input ~ 0
+O_outData2
+Text GLabel 14350 5150 2    60   Input ~ 0
+O_outData1
+Text GLabel 14350 5250 2    60   Input ~ 0
+I_inData3
+Text GLabel 14350 5350 2    60   Input ~ 0
+I_inData2
+Text GLabel 14350 5450 2    60   Input ~ 0
+I_inData1
+Text GLabel 14350 5550 2    60   Input ~ 0
+O_outData0
+Text GLabel 14350 5650 2    60   Input ~ 0
+I_inData0
+Text GLabel 14350 5750 2    60   Input ~ 0
+I_clk
+Text GLabel 14350 5850 2    60   Input ~ 0
+I_reset
+Text GLabel 13350 5850 0    60   Input ~ 0
+VDDQ
+Text GLabel 13350 5750 0    60   Input ~ 0
+O_DOUT
+Text GLabel 13350 5650 0    60   Input ~ 0
+I_DIN
+Text GLabel 13350 5550 0    60   Input ~ 0
+I_PGM
+Text GLabel 13350 5450 0    60   Input ~ 0
+I_FCLK
+Text GLabel 13350 5350 0    60   Input ~ 0
+I_SEL4
+Text GLabel 13350 5250 0    60   Input ~ 0
+I_SEL3
+Text GLabel 13350 5150 0    60   Input ~ 0
+I_SEL2
+Text GLabel 13350 5050 0    60   Input ~ 0
+I_SEL1
+Text GLabel 13350 4950 0    60   Input ~ 0
+I_SEL0
+Text GLabel 13350 4850 0    60   Input ~ 0
+I_enable
+Text GLabel 13350 4750 0    60   Input ~ 0
+I_testmode
+Text GLabel 13350 4650 0    60   Input ~ 0
+I_scanEn
+Text GLabel 13350 4550 0    60   Input ~ 0
+I_SCLK
+Text GLabel 13350 4450 0    60   Input ~ 0
+I_SI
+Text GLabel 13350 4350 0    60   Input ~ 0
+O_SO
+Text GLabel 13350 4250 0    60   Input ~ 0
+I_clk
+Text GLabel 14350 6050 2    39   Input ~ 0
+gnd
+NoConn ~ 14350 4150
+NoConn ~ 14350 4050
+NoConn ~ 13350 4150
+NoConn ~ 13350 4050
 Wire Wire Line
 	3350 1400 3450 1400
+$Comp
+L U4164AlogicAnalyser:5767007-8 J4
+U 1 1 5EE04108
+P 13850 7950
+F 0 "J4" H 13850 9215 50  0000 C CNN
+F 1 "5767007-8" H 13850 9124 50  0000 C CNN
+F 2 "TE_5767007-8" H 13850 7950 50  0001 L BNN
+F 3 "Compliant" H 13850 7950 50  0001 L BNN
+F 4 "5767007-8" H 13850 7950 50  0001 L BNN "Field4"
+F 5 "Connector" H 13850 7950 50  0001 L BNN "Field5"
+F 6 "38" H 13850 7950 50  0001 L BNN "Field6"
+F 7 ".64" H 13850 7950 50  0001 L BNN "Field7"
+	1    13850 7950
+	1    0    0    -1  
+$EndComp
+Text GLabel 13350 7150 0    60   Input ~ 0
+I_clk
+Text GLabel 14350 7150 2    60   Input ~ 0
+I_clk
+Text GLabel 14350 8050 2    60   Input ~ 0
+I_address5
+Text GLabel 14350 8150 2    60   Input ~ 0
+I_address4
+Text GLabel 14350 8250 2    60   Input ~ 0
+I_address3
+Text GLabel 14350 8350 2    60   Input ~ 0
+I_address2
+Text GLabel 14350 8450 2    60   Input ~ 0
+I_address1
+Text GLabel 14350 8550 2    60   Input ~ 0
+I_address0
+Text GLabel 14350 8650 2    60   Input ~ 0
+B_outData_bi7
+Text GLabel 14350 8750 2    60   Input ~ 0
+B_outData_bi6
+Text GLabel 13350 8750 0    60   Input ~ 0
+B_inData_bi2
+Text GLabel 13350 8650 0    60   Input ~ 0
+B_inData_bi3
+Text GLabel 13350 8550 0    60   Input ~ 0
+B_inData_bi4
+Text GLabel 13350 8450 0    60   Input ~ 0
+B_inData_bi5
+Text GLabel 13350 8350 0    60   Input ~ 0
+B_inData_bi6
+Text GLabel 13350 8150 0    60   Input ~ 0
+B_inData_bi8
+Text GLabel 13350 8250 0    60   Input ~ 0
+B_inData_bi7
+Text GLabel 13350 8050 0    60   Input ~ 0
+B_inData_bi9
+Text GLabel 13350 7950 0    60   Input ~ 0
+B_inData_bi10
+Text GLabel 13350 7850 0    60   Input ~ 0
+B_inData_bi11
+Text GLabel 13350 7750 0    60   Input ~ 0
+B_outData_bi0
+Text GLabel 13350 7650 0    60   Input ~ 0
+B_outData_bi1
+Text GLabel 13350 7550 0    60   Input ~ 0
+B_outData_bi2
+Text GLabel 13350 7450 0    60   Input ~ 0
+B_outData_bi3
+Text GLabel 13350 7350 0    60   Input ~ 0
+B_outData_bi4
+Text GLabel 13350 7250 0    60   Input ~ 0
+B_outData_bi5
+Text GLabel 14350 8950 2    39   Input ~ 0
+gnd
+NoConn ~ 14350 6950
+NoConn ~ 14350 7050
+NoConn ~ 13350 7050
+NoConn ~ 13350 6950
+NoConn ~ 14350 7250
+NoConn ~ 14350 7350
+NoConn ~ 14350 7450
+NoConn ~ 14350 7550
+NoConn ~ 14350 7650
+NoConn ~ 14350 7950
+NoConn ~ 14350 7850
+NoConn ~ 14350 7750
+Wire Notes Line
+	12050 3700 15600 3700
+Wire Notes Line
+	15600 3700 15600 9350
+Wire Notes Line
+	15600 9350 12050 9350
+Wire Notes Line
+	12050 9350 12050 3700
+Text Notes 12150 9250 0    79   Italic 16
+Logic Analyzer Connectors
 $EndSCHEMATC
