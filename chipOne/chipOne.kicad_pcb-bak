@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 4)
-    (tracks 2114)
+    (tracks 2111)
     (zones 0)
     (modules 27)
     (nets 186)
@@ -11,8 +11,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -464,7 +464,6 @@
     (add_net O_outData5)
     (add_net O_outData6)
     (add_net O_outData7)
-    (add_net VDD_core)
     (add_net VSSQ)
   )
 
@@ -477,6 +476,7 @@
     (uvia_drill 0.1)
     (add_net VDDQ)
     (add_net VDD_IO)
+    (add_net VDD_core)
   )
 
   (module Y1247AstimulusGenerator:ERF8-030-05.0-L-DV-L-TR (layer F.Cu) (tedit 0) (tstamp 5EDDBA51)
@@ -3069,9 +3069,6 @@
   (via (at 72.4814 93.2383) (size 0.6) (layers F.Cu B.Cu) (net 3))
   (via (at 96.6775 106.949) (size 0.6) (layers F.Cu B.Cu) (net 3))
   (via (at 84.9 119.541) (size 0.6) (layers F.Cu B.Cu) (net 3))
-  (segment (start 104.14 58.42) (end 113.096 58.42) (width 0.8) (layer F.Cu) (net 4))
-  (segment (start 113.096 58.42) (end 118.176 53.34) (width 0.8) (layer F.Cu) (net 4))
-  (segment (start 118.176 53.34) (end 121.92 53.34) (width 0.8) (layer F.Cu) (net 4))
   (segment (start 58.42 58.42) (end 68.1838 58.42) (width 0.8) (layer F.Cu) (net 5))
   (segment (start 68.1838 58.42) (end 73.2638 53.34) (width 0.8) (layer F.Cu) (net 5))
   (segment (start 73.2638 53.34) (end 76.2 53.34) (width 0.8) (layer F.Cu) (net 5))
@@ -4494,7 +4491,7 @@
   (via (at 83.6857 76.774) (size 0.6) (layers F.Cu B.Cu) (net 136))
   (via (at 77.4703 77.0771) (size 0.6) (layers F.Cu B.Cu) (net 136))
 
-  (zone (net 2) (net_name VSSQ) (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 2) (net_name VSSQ) (layer B.Cu) (tstamp 5EDF22E9) (hatch edge 0.508)
     (connect_pads (clearance 0.8))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -5129,7 +5126,7 @@
       )
     )
   )
-  (zone (net 2) (net_name VSSQ) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 2) (net_name VSSQ) (layer F.Cu) (tstamp 5EDF22E6) (hatch edge 0.508)
     (connect_pads (clearance 0.8))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))

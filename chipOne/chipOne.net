@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\chyav\Desktop\sfsuUnivPCB\chipOne\chipOne.sch)
-    (date "6/8/2020 5:34:05 PM")
+    (date "6/8/2020 6:54:56 PM")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -465,7 +465,7 @@
     (library (logical Device)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Device.lib"))
     (library (logical U4164AlogicAnalyser)
-      (uri C:\Users\chyav\Desktop\sfsuUnivPCB\components\U4164AlogicAnalyser\U4164AlogicAnalyser.lib))
+      (uri C:/Users/chyav/Desktop/sfsuUnivPCB/components/U4164AlogicAnalyser/U4164AlogicAnalyser.lib))
     (library (logical Y1247AstimulusGenerator)
       (uri C:/Users/chyav/Desktop/sfsuUnivPCB/components/Y1247AstimulusGenerator/Y1247AstimulusGenerator.lib))
     (library (logical chip1)
