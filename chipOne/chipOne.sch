@@ -1236,7 +1236,7 @@ Wire Notes Line
 Text Notes 950  2300 0    79   Italic 16
 BNC Connector
 Text Notes 750  10950 0    79   Italic 16
-Stimulus Generator Connectors
+Stimulus Generator Connectors  (Y1247A)
 Wire Notes Line
 	11550 9350 6200 9350
 Wire Notes Line
@@ -1447,5 +1447,5 @@ Wire Notes Line
 Wire Notes Line
 	12050 9350 12050 3700
 Text Notes 12150 9250 0    79   Italic 16
-Logic Analyzer Connectors
+Logic Analyzer Connectors (U4205)
 $EndSCHEMATC
