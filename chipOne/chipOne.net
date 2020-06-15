@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\chyav\Desktop\sfsuUnivPCB\chipOne\chipOne.sch)
-    (date "6/8/2020 6:54:56 PM")
+    (date "6/15/2020 12:45:55 PM")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -159,7 +159,7 @@
       (tstamp 5EDC939D))
     (comp (ref U6)
       (value 3pinSwitchCustom)
-      (footprint Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm)
+      (footprint SW_MS12ANW03:SW_MS12ANW03)
       (datasheet http://www.ti.com/lit/ds/symlink/ts5a3159.pdf)
       (libsource (lib 3pinSwitchCustom) (part 3pinSwitchCustom) (description "Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SOT-23-6"))
       (sheetpath (names /) (tstamps /))
@@ -180,7 +180,7 @@
       (tstamp 5F11BC86))
     (comp (ref U10A1)
       (value 3pinSwitchCustom)
-      (footprint Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm)
+      (footprint SW_MS12ANW03:SW_MS12ANW03)
       (datasheet http://www.ti.com/lit/ds/symlink/ts5a3159.pdf)
       (libsource (lib 3pinSwitchCustom) (part 3pinSwitchCustom) (description "Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SOT-23-6"))
       (sheetpath (names /) (tstamps /))

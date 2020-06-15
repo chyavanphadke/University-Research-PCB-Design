@@ -1481,4 +1481,12 @@ Text GLabel 14500 9000 2    39   Input ~ 0
 gnd
 Text GLabel 14500 6100 2    39   Input ~ 0
 gnd
+Wire Notes Line
+	15800 3600 15800 9700
+Wire Notes Line
+	15800 9700 12350 9700
+Wire Notes Line
+	12350 9700 12350 3600
+Wire Notes Line
+	12350 3600 15800 3600
 $EndSCHEMATC

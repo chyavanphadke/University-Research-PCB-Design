@@ -1168,7 +1168,7 @@ U 1 1 5F119963
 P 1750 1300
 F 0 "U6" H 1750 1542 50  0000 C CNN
 F 1 "3pinSwitchCustom" H 1750 1451 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 1800 950 50  0001 C CNN
+F 2 "SW_MS12ANW03:SW_MS12ANW03" H 1800 950 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 1750 1300 50  0001 C CNN
 	1    1750 1300
 	1    0    0    -1  
@@ -1259,7 +1259,7 @@ U 1 1 5F1F2BEA
 P 3750 1300
 F 0 "U10A1" H 3750 1542 50  0000 C CNN
 F 1 "3pinSwitchCustom" H 3750 1451 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 3800 950 50  0001 C CNN
+F 2 "SW_MS12ANW03:SW_MS12ANW03" H 3800 950 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 3750 1300 50  0001 C CNN
 	1    3750 1300
 	1    0    0    -1  

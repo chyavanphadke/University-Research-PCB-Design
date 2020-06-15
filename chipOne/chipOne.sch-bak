@@ -1168,7 +1168,7 @@ U 1 1 5F119963
 P 1750 1300
 F 0 "U6" H 1750 1542 50  0000 C CNN
 F 1 "3pinSwitchCustom" H 1750 1451 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 1800 950 50  0001 C CNN
+F 2 "SW_MS12ANW03:SW_MS12ANW03" H 1800 950 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 1750 1300 50  0001 C CNN
 	1    1750 1300
 	1    0    0    -1  
@@ -1236,7 +1236,7 @@ Wire Notes Line
 Text Notes 950  2300 0    79   Italic 16
 BNC Connector
 Text Notes 750  10950 0    79   Italic 16
-Stimulus Generator Connectors
+Stimulus Generator Connectors  (Y1247A)
 Wire Notes Line
 	11550 9350 6200 9350
 Wire Notes Line
@@ -1259,7 +1259,7 @@ U 1 1 5F1F2BEA
 P 3750 1300
 F 0 "U10A1" H 3750 1542 50  0000 C CNN
 F 1 "3pinSwitchCustom" H 3750 1451 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 3800 950 50  0001 C CNN
+F 2 "SW_MS12ANW03:SW_MS12ANW03" H 3800 950 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 3750 1300 50  0001 C CNN
 	1    3750 1300
 	1    0    0    -1  
@@ -1447,5 +1447,5 @@ Wire Notes Line
 Wire Notes Line
 	12050 9350 12050 3700
 Text Notes 12150 9250 0    79   Italic 16
-Logic Analyzer Connectors
+Logic Analyzer Connectors (U4205)
 $EndSCHEMATC
