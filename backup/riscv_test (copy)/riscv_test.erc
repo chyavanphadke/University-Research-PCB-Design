@@ -1,0 +1,919 @@
+ERC report (Tue Mar 10 02:04:04 2020, Encoding UTF8 )
+
+***** Sheet /
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,208.28 mm): Pin G14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,228.60 mm): Pin H22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,254.00 mm): Pin G32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,254.00 mm): Pin H32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,205.74 mm): Pin G13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,205.74 mm): Pin H13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,231.14 mm): Pin G23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,231.14 mm): Pin H23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,256.54 mm): Pin G33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,256.54 mm): Pin H33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,228.60 mm): Pin G22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,208.28 mm): Pin H14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,233.68 mm): Pin G24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,233.68 mm): Pin H24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,259.08 mm): Pin G34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,259.08 mm): Pin H34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,210.82 mm): Pin G15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,210.82 mm): Pin H15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,236.22 mm): Pin G25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,274.32 mm): Pin H40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,195.58 mm): Pin G9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,195.58 mm): Pin H9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,198.12 mm): Pin G10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,198.12 mm): Pin H10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,223.52 mm): Pin G20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,223.52 mm): Pin H20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,248.92 mm): Pin G30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,248.92 mm): Pin H30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,274.32 mm): Pin G40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,236.22 mm): Pin H25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,200.66 mm): Pin G11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,200.66 mm): Pin H11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,226.06 mm): Pin G21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,226.06 mm): Pin H21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,251.46 mm): Pin G31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,251.46 mm): Pin H31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,203.20 mm): Pin G12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,203.20 mm): Pin H12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,177.80 mm): Pin J2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,269.24 mm): Pin H38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,220.98 mm): Pin G19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,220.98 mm): Pin H19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,246.38 mm): Pin G29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,246.38 mm): Pin H29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,271.78 mm): Pin G39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,271.78 mm): Pin H39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,175.26 mm): Pin J1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,175.26 mm): Pin K1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,269.24 mm): Pin G38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,177.80 mm): Pin K2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,180.34 mm): Pin J3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,180.34 mm): Pin K3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,182.88 mm): Pin J4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,182.88 mm): Pin K4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,185.42 mm): Pin J5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,185.42 mm): Pin K5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,187.96 mm): Pin J6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,215.90 mm): Pin H17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,261.62 mm): Pin G35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,261.62 mm): Pin H35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,213.36 mm): Pin G16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,213.36 mm): Pin H16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,238.76 mm): Pin G26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,238.76 mm): Pin H26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,264.16 mm): Pin G36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,264.16 mm): Pin H36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,215.90 mm): Pin G17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,193.04 mm): Pin H8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,241.30 mm): Pin G27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,241.30 mm): Pin H27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,266.70 mm): Pin G37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,266.70 mm): Pin H37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,218.44 mm): Pin G18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,218.44 mm): Pin H18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,243.84 mm): Pin G28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,243.84 mm): Pin H28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,140.97 mm): Pin F34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,113.03 mm): Pin E23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,113.03 mm): Pin F23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,138.43 mm): Pin E33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,138.43 mm): Pin F33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,90.17 mm): Pin E14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,90.17 mm): Pin F14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,115.57 mm): Pin E24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,115.57 mm): Pin F24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,140.97 mm): Pin E34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,87.63 mm): Pin F13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,92.71 mm): Pin E15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,92.71 mm): Pin F15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,118.11 mm): Pin E25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,118.11 mm): Pin F25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,143.51 mm): Pin E35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,143.51 mm): Pin F35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,95.25 mm): Pin E16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,95.25 mm): Pin F16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,133.35 mm): Pin E31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,105.41 mm): Pin F20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,130.81 mm): Pin E30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,130.81 mm): Pin F30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,156.21 mm): Pin E40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,156.21 mm): Pin F40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,82.55 mm): Pin E11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,82.55 mm): Pin F11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,107.95 mm): Pin E21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,107.95 mm): Pin F21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,120.65 mm): Pin E26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,133.35 mm): Pin F31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,85.09 mm): Pin E12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,85.09 mm): Pin F12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,110.49 mm): Pin E22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,110.49 mm): Pin F22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,135.89 mm): Pin E32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,135.89 mm): Pin F32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,87.63 mm): Pin E13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,182.88 mm): Pin G4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,128.27 mm): Pin F29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,153.67 mm): Pin E39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,153.67 mm): Pin F39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,175.26 mm): Pin G1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,175.26 mm): Pin H1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,177.80 mm): Pin G2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,177.80 mm): Pin H2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,180.34 mm): Pin G3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,180.34 mm): Pin H3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,128.27 mm): Pin E29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,182.88 mm): Pin H4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,185.42 mm): Pin G5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,185.42 mm): Pin H5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,187.96 mm): Pin G6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,187.96 mm): Pin H6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,190.50 mm): Pin G7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (43.18 mm,190.50 mm): Pin H7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (17.78 mm,193.04 mm): Pin G8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,148.59 mm): Pin F37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,120.65 mm): Pin F26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,146.05 mm): Pin E36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,146.05 mm): Pin F36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,97.79 mm): Pin E17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,97.79 mm): Pin F17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,123.19 mm): Pin E27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,123.19 mm): Pin F27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,148.59 mm): Pin E37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,187.96 mm): Pin K6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,100.33 mm): Pin E18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,100.33 mm): Pin F18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,125.73 mm): Pin E28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,125.73 mm): Pin F28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,151.13 mm): Pin E38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,151.13 mm): Pin F38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,102.87 mm): Pin E19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,102.87 mm): Pin F19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,231.14 mm): Pin B22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,203.20 mm): Pin A11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,203.20 mm): Pin B11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,228.60 mm): Pin A21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,228.60 mm): Pin B21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,254.00 mm): Pin A31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,254.00 mm): Pin B31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,205.74 mm): Pin A12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,205.74 mm): Pin B12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,231.14 mm): Pin A22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,276.86 mm): Pin B40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,256.54 mm): Pin A32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,256.54 mm): Pin B32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,208.28 mm): Pin A13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,208.28 mm): Pin B13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,233.68 mm): Pin A23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,233.68 mm): Pin B23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,259.08 mm): Pin A33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,259.08 mm): Pin B33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,198.12 mm): Pin A9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,185.42 mm): Pin B4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,187.96 mm): Pin A5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,187.96 mm): Pin B5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,190.50 mm): Pin A6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,190.50 mm): Pin B6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,193.04 mm): Pin A7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,193.04 mm): Pin B7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,195.58 mm): Pin A8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,195.58 mm): Pin B8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,210.82 mm): Pin A14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,198.12 mm): Pin B9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,200.66 mm): Pin A10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,200.66 mm): Pin B10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,226.06 mm): Pin A20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,226.06 mm): Pin B20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,251.46 mm): Pin A30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,251.46 mm): Pin B30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,276.86 mm): Pin A40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,271.78 mm): Pin A38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,218.44 mm): Pin B17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,243.84 mm): Pin A27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,243.84 mm): Pin B27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,269.24 mm): Pin A37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,269.24 mm): Pin B37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,220.98 mm): Pin A18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,220.98 mm): Pin B18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,246.38 mm): Pin A28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,246.38 mm): Pin B28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,218.44 mm): Pin A17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,271.78 mm): Pin B38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,223.52 mm): Pin A19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,223.52 mm): Pin B19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,248.92 mm): Pin A29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,248.92 mm): Pin B29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,274.32 mm): Pin A39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,274.32 mm): Pin B39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,238.76 mm): Pin B25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,210.82 mm): Pin B14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,236.22 mm): Pin A24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,236.22 mm): Pin B24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,261.62 mm): Pin A34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,261.62 mm): Pin B34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,213.36 mm): Pin A15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,213.36 mm): Pin B15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,238.76 mm): Pin A25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,185.42 mm): Pin A4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,264.16 mm): Pin A35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,264.16 mm): Pin B35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,215.90 mm): Pin A16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,215.90 mm): Pin B16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,241.30 mm): Pin A26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,241.30 mm): Pin B26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,266.70 mm): Pin A36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,266.70 mm): Pin B36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,231.14 mm): Pin J23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,251.46 mm): Pin K31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,203.20 mm): Pin J12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,203.20 mm): Pin K12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,228.60 mm): Pin J22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,228.60 mm): Pin K22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,254.00 mm): Pin J32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,254.00 mm): Pin K32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,205.74 mm): Pin J13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,205.74 mm): Pin K13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,251.46 mm): Pin J31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,231.14 mm): Pin K23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,256.54 mm): Pin J33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,256.54 mm): Pin K33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,208.28 mm): Pin J14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,208.28 mm): Pin K14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,233.68 mm): Pin J24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,233.68 mm): Pin K24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,259.08 mm): Pin J34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,223.52 mm): Pin K20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,190.50 mm): Pin J7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,190.50 mm): Pin K7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,193.04 mm): Pin J8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,193.04 mm): Pin K8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,195.58 mm): Pin J9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,195.58 mm): Pin K9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,198.12 mm): Pin J10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,198.12 mm): Pin K10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,223.52 mm): Pin J20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,259.08 mm): Pin K34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,248.92 mm): Pin J30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,248.92 mm): Pin K30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,274.32 mm): Pin J40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,274.32 mm): Pin K40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,200.66 mm): Pin J11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,200.66 mm): Pin K11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,226.06 mm): Pin J21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,226.06 mm): Pin K21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,246.38 mm): Pin K29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,218.44 mm): Pin J18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,218.44 mm): Pin K18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,243.84 mm): Pin J28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,243.84 mm): Pin K28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,269.24 mm): Pin J38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,269.24 mm): Pin K38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,220.98 mm): Pin J19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,220.98 mm): Pin K19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,246.38 mm): Pin J29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,266.70 mm): Pin K37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,271.78 mm): Pin J39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,271.78 mm): Pin K39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,177.80 mm): Pin A1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,177.80 mm): Pin B1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,180.34 mm): Pin A2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,180.34 mm): Pin B2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (119.38 mm,182.88 mm): Pin A3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (144.78 mm,182.88 mm): Pin B3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,238.76 mm): Pin J26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,210.82 mm): Pin J15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,210.82 mm): Pin K15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,236.22 mm): Pin J25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,236.22 mm): Pin K25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,261.62 mm): Pin J35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,261.62 mm): Pin K35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,213.36 mm): Pin J16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,213.36 mm): Pin K16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,238.76 mm): Pin K26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,264.16 mm): Pin J36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,264.16 mm): Pin K36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,215.90 mm): Pin J17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,215.90 mm): Pin K17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,241.30 mm): Pin J27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (92.71 mm,241.30 mm): Pin K27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (67.31 mm,266.70 mm): Pin J37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,83.82 mm): Pin 59 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (335.28 mm,62.23 mm): Pin 69 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (309.88 mm,62.23 mm): Pin 79 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (349.25 mm,149.86 mm): Pin 39 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (353.06 mm,62.23 mm): Pin 62 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,109.22 mm): Pin 12 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (306.07 mm,149.86 mm): Pin 22 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (331.47 mm,149.86 mm): Pin 32 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,127.00 mm): Pin 42 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,101.60 mm): Pin 52 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,111.76 mm): Pin 13 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (308.61 mm,149.86 mm): Pin 23 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (334.01 mm,149.86 mm): Pin 33 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,124.46 mm): Pin 43 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,99.06 mm): Pin 53 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (350.52 mm,62.23 mm): Pin 63 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (325.12 mm,62.23 mm): Pin 73 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,105.41 mm): Pin E20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,88.90 mm): Pin 4 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,91.44 mm): Pin 5 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,93.98 mm): Pin 6 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,96.52 mm): Pin 7 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,114.30 mm): Pin 14 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (342.90 mm,62.23 mm): Pin 66 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (317.50 mm,62.23 mm): Pin 76 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,121.92 mm): Pin 17 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (318.77 mm,149.86 mm): Pin 27 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (344.17 mm,149.86 mm): Pin 37 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,114.30 mm): Pin 47 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,88.90 mm): Pin 57 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (340.36 mm,62.23 mm): Pin 67 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (314.96 mm,62.23 mm): Pin 77 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,91.44 mm): Pin 56 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (321.31 mm,149.86 mm): Pin 28 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (346.71 mm,149.86 mm): Pin 38 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,111.76 mm): Pin 48 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,86.36 mm): Pin 58 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (337.82 mm,62.23 mm): Pin 68 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (312.42 mm,62.23 mm): Pin 78 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (339.09 mm,149.86 mm): Pin 35 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (311.15 mm,149.86 mm): Pin 24 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (336.55 mm,149.86 mm): Pin 34 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,121.92 mm): Pin 44 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,96.52 mm): Pin 54 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (347.98 mm,62.23 mm): Pin 64 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (322.58 mm,62.23 mm): Pin 74 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,116.84 mm): Pin 15 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (313.69 mm,149.86 mm): Pin 25 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,80.01 mm): Pin F10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,119.38 mm): Pin 45 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,93.98 mm): Pin 55 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (345.44 mm,62.23 mm): Pin 65 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (320.04 mm,62.23 mm): Pin 75 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (292.10 mm,119.38 mm): Pin 16 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (316.23 mm,149.86 mm): Pin 26 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (341.63 mm,149.86 mm): Pin 36 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (367.03 mm,116.84 mm): Pin 46 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,142.24 mm): Pin C35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,88.90 mm): Pin D14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,114.30 mm): Pin C24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,114.30 mm): Pin D24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,139.70 mm): Pin C34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,139.70 mm): Pin D34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,91.44 mm): Pin C15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,91.44 mm): Pin D15 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,116.84 mm): Pin C25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,116.84 mm): Pin D25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,88.90 mm): Pin C14 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,142.24 mm): Pin D35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,93.98 mm): Pin C16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,93.98 mm): Pin D16 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,119.38 mm): Pin C26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,119.38 mm): Pin D26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,144.78 mm): Pin C36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,144.78 mm): Pin D36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,96.52 mm): Pin C17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,109.22 mm): Pin D22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,81.28 mm): Pin C11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,81.28 mm): Pin D11 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,106.68 mm): Pin C21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,106.68 mm): Pin D21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,132.08 mm): Pin C31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,132.08 mm): Pin D31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,83.82 mm): Pin C12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,83.82 mm): Pin D12 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,109.22 mm): Pin C22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,96.52 mm): Pin D17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,134.62 mm): Pin C32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,134.62 mm): Pin D32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,86.36 mm): Pin C13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,86.36 mm): Pin D13 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,111.76 mm): Pin C23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,111.76 mm): Pin D23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,137.16 mm): Pin C33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,137.16 mm): Pin D33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,69.85 mm): Pin F6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,59.69 mm): Pin E2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,59.69 mm): Pin F2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,62.23 mm): Pin E3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,62.23 mm): Pin F3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,64.77 mm): Pin E4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,64.77 mm): Pin F4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,67.31 mm): Pin E5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,67.31 mm): Pin F5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,69.85 mm): Pin E6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,57.15 mm): Pin F1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,72.39 mm): Pin E7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,72.39 mm): Pin F7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,74.93 mm): Pin E8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,74.93 mm): Pin F8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,77.47 mm): Pin E9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,77.47 mm): Pin F9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,80.01 mm): Pin E10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,149.86 mm): Pin C38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,121.92 mm): Pin C27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,121.92 mm): Pin D27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,147.32 mm): Pin C37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,147.32 mm): Pin D37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,99.06 mm): Pin C18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,99.06 mm): Pin D18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,124.46 mm): Pin C28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,124.46 mm): Pin D28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,149.86 mm): Pin D38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,101.60 mm): Pin C19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,101.60 mm): Pin D19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,127.00 mm): Pin C29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,127.00 mm): Pin D29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,152.40 mm): Pin C39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,152.40 mm): Pin D39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (96.52 mm,57.15 mm): Pin E1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,154.94 mm): Pin D40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,154.94 mm): Pin C40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,76.20 mm): Pin C9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,63.50 mm): Pin D4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,66.04 mm): Pin C5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,66.04 mm): Pin D5 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,68.58 mm): Pin C6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,68.58 mm): Pin D6 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,71.12 mm): Pin C7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,71.12 mm): Pin D7 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,73.66 mm): Pin C8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,73.66 mm): Pin D8 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,76.20 mm): Pin D9 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,78.74 mm): Pin C10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,78.74 mm): Pin D10 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,104.14 mm): Pin C20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,104.14 mm): Pin D20 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,129.54 mm): Pin C30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,129.54 mm): Pin D30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,60.96 mm): Pin D3 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,63.50 mm): Pin C4 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,55.88 mm): Pin C1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,55.88 mm): Pin D1 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,58.42 mm): Pin C2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (53.34 mm,58.42 mm): Pin D2 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (27.94 mm,60.96 mm): Pin C3 (Passive) of component J1 is unconnected.
+
+***** Sheet /Sheet5E601255/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (208.28 mm,64.77 mm): Pin 1 (Power input) of component #PWR05 is not driven (Net 305).
+
+ ** ERC messages: 456  Errors 0  Warnings 456

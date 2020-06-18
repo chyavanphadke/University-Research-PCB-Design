@@ -1,0 +1,7 @@
+Id,Designator,Value,Package,Quantity,Designation,Supplier and ref
+1,J1,,SAMTEC_ASP-134486-01,1,ASP-134486-01,
+2,"P1,P2",,BNC_Socket_TYCO-AMP_LargePads,2,CONN_01X02,
+3,"C1,C3,C5,C6,C7,C11,C12,C13",10uF,C_1206_HandSoldering,8,C,
+4,"C2,C4,C8,C9,C10,C14,C15,C16",100uF,TantalC_SizeE_EIA-7360_HandSoldering,8,CP,
+5,U1,,280-5205-01,1,CHIP2,
+6,"SW2,SW1",,SW_Micro_SPST,2,SWITCH_INV,

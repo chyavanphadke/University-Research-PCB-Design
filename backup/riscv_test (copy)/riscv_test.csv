@@ -1,0 +1,7 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"280-5205-01";1;"CHIP1";;;
+2;"10uf1,10uF1,10uf2,10uF2,10uf3,10uF3,10uf4,10uf5,10uf6";"C_1206_HandSoldering";9;"C";;;
+3;"100uf1,100uf2,100uf3,100uf4,100uf5,100uf6,100uf7,100uf8,100uf9";"TantalC_SizeE_EIA-7360_HandSoldering";9;"C";;;
+4;"J1";"SAMTEC_ASP-134486-01";1;"ASP-134486-01";;;
+5;"P1,P2,P3";"BNC_Socket_TYCO-AMP_LargePads";3;"CONN_01X02";;;
+6;"SW3,SW2,SW1";"SW_Micro_SPST";3;"SWITCH_INV";;;
