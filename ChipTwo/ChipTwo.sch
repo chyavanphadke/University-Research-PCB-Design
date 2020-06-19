@@ -86,11 +86,11 @@ VDD_core
 Text GLabel 7300 1200 1    60   Input ~ 0
 VDD_IO
 $Comp
-L chip2:CHIP2 U5
+L chip2:CHIP2 CPchip2_U5
 U 1 1 5EE064B8
 P 5450 9050
-F 0 "U5" H 10000 10950 60  0000 L CNN
-F 1 "CHIP2" H 8600 10650 118 0000 L CNB
+F 0 "CPchip2_U5" H 8700 10900 60  0000 L CNN
+F 1 "CPchip2_CHIP2" H 8350 10550 118 0000 L CNB
 F 2 "chip1:280-5205-01" H 5450 9050 60  0001 C CNN
 F 3 "" H 5450 9050 60  0001 C CNN
 	1    5450 9050
@@ -235,8 +235,6 @@ Wire Wire Line
 Wire Wire Line
 	6850 7650 6500 7650
 Wire Wire Line
-	6500 7500 6850 7500
-Wire Wire Line
 	6850 7350 6500 7350
 Wire Wire Line
 	6500 7800 6850 7800
@@ -363,10 +361,10 @@ Wire Wire Line
 Wire Wire Line
 	8350 5400 8350 5750
 $Comp
-L Y1247AstimulusGenerator:Y1247AstimulusGenerator U1
+L Y1247AstimulusGenerator:Y1247AstimulusGenerator CPchip2_U1
 U 1 1 5F03E68D
 P 1900 5550
-F 0 "U1" H 1950 7291 39  0000 C CNN
+F 0 "CPchip2_U1" H 1950 7291 39  0000 C CNN
 F 1 "Y1247AstimulusGenerator" H 1950 7216 39  0000 C CNN
 F 2 "Y1247AstimulusGenerator:ERF8-030-05.0-L-DV-L-TR" H 1900 5750 39  0001 C CNN
 F 3 "" H 1900 5750 39  0001 C CNN
@@ -374,10 +372,10 @@ F 3 "" H 1900 5750 39  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Y1247AstimulusGenerator:Y1247AstimulusGenerator U3
+L Y1247AstimulusGenerator:Y1247AstimulusGenerator CPchip2_U3
 U 1 1 5F047E8B
 P 4200 5550
-F 0 "U3" H 4250 7291 39  0000 C CNN
+F 0 "CPchip2_U3" H 4250 7291 39  0000 C CNN
 F 1 "Y1247AstimulusGenerator" H 4250 7216 39  0000 C CNN
 F 2 "Y1247AstimulusGenerator:ERF8-030-05.0-L-DV-L-TR" H 4200 5750 39  0001 C CNN
 F 3 "" H 4200 5750 39  0001 C CNN
@@ -385,10 +383,10 @@ F 3 "" H 4200 5750 39  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Y1247AstimulusGenerator:Y1247AstimulusGenerator U2
+L Y1247AstimulusGenerator:Y1247AstimulusGenerator CPchip2_U2
 U 1 1 5F05A560
 P 1900 9100
-F 0 "U2" H 1950 10841 39  0000 C CNN
+F 0 "CPchip2_U2" H 1950 10841 39  0000 C CNN
 F 1 "Y1247AstimulusGenerator" H 1950 10766 39  0000 C CNN
 F 2 "Y1247AstimulusGenerator:ERF8-030-05.0-L-DV-L-TR" H 1900 9300 39  0001 C CNN
 F 3 "" H 1900 9300 39  0001 C CNN
@@ -396,10 +394,10 @@ F 3 "" H 1900 9300 39  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Y1247AstimulusGenerator:Y1247AstimulusGenerator U4
+L Y1247AstimulusGenerator:Y1247AstimulusGenerator CPchip2_U4
 U 1 1 5F05A56A
 P 4200 9100
-F 0 "U4" H 4250 10841 39  0000 C CNN
+F 0 "CPchip2_U4" H 4250 10841 39  0000 C CNN
 F 1 "Y1247AstimulusGenerator" H 4250 10766 39  0000 C CNN
 F 2 "Y1247AstimulusGenerator:ERF8-030-05.0-L-DV-L-TR" H 4200 9300 39  0001 C CNN
 F 3 "" H 4200 9300 39  0001 C CNN
@@ -783,10 +781,10 @@ gnd
 Text GLabel 4800 5850 2    39   Input ~ 0
 gnd
 $Comp
-L Device:C C1
+L Device:C CPchip2_C1
 U 1 1 5F17B18B
 P 7050 1500
-F 0 "C1" H 7100 1600 50  0000 L CNN
+F 0 "CPchip2_C1" H 7100 1600 50  0000 L CNN
 F 1 "10uF" H 6850 1600 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206_HandSoldering" H 7088 1350 50  0001 C CNN
 F 3 "~" H 7050 1500 50  0001 C CNN
@@ -794,10 +792,10 @@ F 3 "~" H 7050 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C3
+L Device:C CPchip2_C3
 U 1 1 5F17B195
 P 7500 1500
-F 0 "C3" H 7550 1400 50  0000 L CNN
+F 0 "CPchip2_C3" H 7550 1400 50  0000 L CNN
 F 1 "100uF" H 7250 1400 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand" H 7538 1350 50  0001 C CNN
 F 3 "~" H 7500 1500 50  0001 C CNN
@@ -805,10 +803,10 @@ F 3 "~" H 7500 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C5
+L Device:C CPchip2_C5
 U 1 1 5F17B19F
 P 8300 1550
-F 0 "C5" H 8350 1650 50  0000 L CNN
+F 0 "CPchip2_C5" H 8350 1650 50  0000 L CNN
 F 1 "10uF" H 8100 1650 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206_HandSoldering" H 8338 1400 50  0001 C CNN
 F 3 "~" H 8300 1550 50  0001 C CNN
@@ -816,10 +814,10 @@ F 3 "~" H 8300 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C7
+L Device:C CPchip2_C7
 U 1 1 5F17B1A9
 P 8800 1550
-F 0 "C7" H 8850 1450 50  0000 L CNN
+F 0 "CPchip2_C7" H 8850 1450 50  0000 L CNN
 F 1 "100uF" H 8550 1450 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand" H 8838 1400 50  0001 C CNN
 F 3 "~" H 8800 1550 50  0001 C CNN
@@ -879,10 +877,10 @@ VDD_core
 Text GLabel 9800 1250 1    60   Input ~ 0
 VDD_IO
 $Comp
-L Device:C C9
+L Device:C CPchip2_C9
 U 1 1 5F1B0FC2
 P 9550 1550
-F 0 "C9" H 9600 1650 50  0000 L CNN
+F 0 "CPchip2_C9" H 9600 1650 50  0000 L CNN
 F 1 "10uF" H 9350 1650 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206_HandSoldering" H 9588 1400 50  0001 C CNN
 F 3 "~" H 9550 1550 50  0001 C CNN
@@ -890,10 +888,10 @@ F 3 "~" H 9550 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C11
+L Device:C CPchip2_C11
 U 1 1 5F1B0FCC
 P 10000 1550
-F 0 "C11" H 10050 1450 50  0000 L CNN
+F 0 "CPchip2_C11" H 10050 1450 50  0000 L CNN
 F 1 "100uF" H 9750 1450 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand" H 10038 1400 50  0001 C CNN
 F 3 "~" H 10000 1550 50  0001 C CNN
@@ -901,10 +899,10 @@ F 3 "~" H 10000 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C13
+L Device:C CPchip2_C13
 U 1 1 5F1B0FD6
 P 10800 1600
-F 0 "C13" H 10850 1700 50  0000 L CNN
+F 0 "CPchip2_C13" H 10850 1700 50  0000 L CNN
 F 1 "10uF" H 10600 1700 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206_HandSoldering" H 10838 1450 50  0001 C CNN
 F 3 "~" H 10800 1600 50  0001 C CNN
@@ -912,10 +910,10 @@ F 3 "~" H 10800 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C15
+L Device:C CPchip2_C15
 U 1 1 5F1B0FE0
 P 11300 1600
-F 0 "C15" H 11350 1500 50  0000 L CNN
+F 0 "CPchip2_C15" H 11350 1500 50  0000 L CNN
 F 1 "100uF" H 11050 1500 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand" H 11338 1450 50  0001 C CNN
 F 3 "~" H 11300 1600 50  0001 C CNN
@@ -975,10 +973,10 @@ VDD_core
 Text GLabel 7300 2800 1    60   Input ~ 0
 VDD_IO
 $Comp
-L Device:C C2
+L Device:C CPchip2_C2
 U 1 1 5F1B78CB
 P 7050 3100
-F 0 "C2" H 7100 3200 50  0000 L CNN
+F 0 "CPchip2_C2" H 7100 3200 50  0000 L CNN
 F 1 "10uF" H 6850 3200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206_HandSoldering" H 7088 2950 50  0001 C CNN
 F 3 "~" H 7050 3100 50  0001 C CNN
@@ -986,10 +984,10 @@ F 3 "~" H 7050 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C4
+L Device:C CPchip2_C4
 U 1 1 5F1B78D5
 P 7500 3100
-F 0 "C4" H 7550 3000 50  0000 L CNN
+F 0 "CPchip2_C4" H 7550 3000 50  0000 L CNN
 F 1 "100uF" H 7250 3000 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand" H 7538 2950 50  0001 C CNN
 F 3 "~" H 7500 3100 50  0001 C CNN
@@ -997,10 +995,10 @@ F 3 "~" H 7500 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C6
+L Device:C CPchip2_C6
 U 1 1 5F1B78DF
 P 8300 3150
-F 0 "C6" H 8350 3250 50  0000 L CNN
+F 0 "CPchip2_C6" H 8350 3250 50  0000 L CNN
 F 1 "10uF" H 8100 3250 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206_HandSoldering" H 8338 3000 50  0001 C CNN
 F 3 "~" H 8300 3150 50  0001 C CNN
@@ -1008,10 +1006,10 @@ F 3 "~" H 8300 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C8
+L Device:C CPchip2_C8
 U 1 1 5F1B78E9
 P 8800 3150
-F 0 "C8" H 8850 3050 50  0000 L CNN
+F 0 "CPchip2_C8" H 8850 3050 50  0000 L CNN
 F 1 "100uF" H 8550 3050 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand" H 8838 3000 50  0001 C CNN
 F 3 "~" H 8800 3150 50  0001 C CNN
@@ -1071,10 +1069,10 @@ VDD_core
 Text GLabel 9800 2850 1    60   Input ~ 0
 VDD_IO
 $Comp
-L Device:C C10
+L Device:C CPchip2_C10
 U 1 1 5F1B790F
 P 9550 3150
-F 0 "C10" H 9600 3250 50  0000 L CNN
+F 0 "CPchip2_C10" H 9600 3250 50  0000 L CNN
 F 1 "10uF" H 9350 3250 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206_HandSoldering" H 9588 3000 50  0001 C CNN
 F 3 "~" H 9550 3150 50  0001 C CNN
@@ -1082,10 +1080,10 @@ F 3 "~" H 9550 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C12
+L Device:C CPchip2_C12
 U 1 1 5F1B7919
 P 10000 3150
-F 0 "C12" H 10050 3050 50  0000 L CNN
+F 0 "CPchip2_C12" H 10050 3050 50  0000 L CNN
 F 1 "100uF" H 9750 3050 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand" H 10038 3000 50  0001 C CNN
 F 3 "~" H 10000 3150 50  0001 C CNN
@@ -1093,10 +1091,10 @@ F 3 "~" H 10000 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C14
+L Device:C CPchip2_C14
 U 1 1 5F1B7923
 P 10800 3200
-F 0 "C14" H 10850 3300 50  0000 L CNN
+F 0 "CPchip2_C14" H 10850 3300 50  0000 L CNN
 F 1 "10uF" H 10600 3300 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206_HandSoldering" H 10838 3050 50  0001 C CNN
 F 3 "~" H 10800 3200 50  0001 C CNN
@@ -1104,10 +1102,10 @@ F 3 "~" H 10800 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C16
+L Device:C CPchip2_C16
 U 1 1 5F1B792D
 P 11300 3200
-F 0 "C16" H 11350 3100 50  0000 L CNN
+F 0 "CPchip2_C16" H 11350 3100 50  0000 L CNN
 F 1 "100uF" H 11050 3100 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand" H 11338 3050 50  0001 C CNN
 F 3 "~" H 11300 3200 50  0001 C CNN
@@ -1162,28 +1160,6 @@ Wire Wire Line
 Connection ~ 9800 2950
 Wire Wire Line
 	9800 2950 10000 2950
-$Comp
-L 3pinSwitchCustom:3pinSwitchCustom U6
-U 1 1 5F213BDC
-P 2150 1450
-F 0 "U6" H 2150 1692 50  0000 C CNN
-F 1 "3pinSwitchCustom" H 2150 1601 50  0000 C CNN
-F 2 "SW_MS12ANW03:SW_MS12ANW03" H 2200 1100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 2150 1450 50  0001 C CNN
-	1    2150 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_Coaxial J1
-U 1 1 5F214842
-P 3000 1450
-F 0 "J1" H 3100 1425 50  0000 L CNN
-F 1 "Conn_Coaxial" H 3100 1334 50  0000 L CNN
-F 2 "bnc_connector:TE_227161-1" H 3000 1450 50  0001 C CNN
-F 3 " ~" H 3000 1450 50  0001 C CNN
-	1    3000 1450
-	1    0    0    -1  
-$EndComp
 Text GLabel 1600 1550 0    39   Input ~ 0
 VDD_core
 Wire Wire Line
@@ -1202,10 +1178,10 @@ Connection ~ 2800 1650
 Wire Wire Line
 	2800 1650 3000 1650
 $Comp
-L Connector:Conn_Coaxial J2
+L Connector:Conn_Coaxial CPchip2_J2
 U 1 1 5F23988A
 P 3050 2400
-F 0 "J2" H 3150 2375 50  0000 L CNN
+F 0 "CPchip2_J2" H 3150 2375 50  0000 L CNN
 F 1 "Conn_Coaxial" H 3150 2284 50  0000 L CNN
 F 2 "bnc_connector:TE_227161-1" H 3050 2400 50  0001 C CNN
 F 3 " ~" H 3050 2400 50  0001 C CNN
@@ -1290,17 +1266,6 @@ Wire Notes Line
 	5850 11050 5850 4400
 Wire Notes Line
 	5850 4400 11950 4400
-$Comp
-L 3pinSwitchCustom:3pinSwitchCustom U11
-U 1 1 5F2E8F07
-P 2150 2400
-F 0 "U11" H 2150 2642 50  0000 C CNN
-F 1 "3pinSwitchCustom" H 2150 2551 50  0000 C CNN
-F 2 "SW_MS12ANW03:SW_MS12ANW03" H 2200 2050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 2150 2400 50  0001 C CNN
-	1    2150 2400
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	11100 9000 10900 9000
 Connection ~ 10900 9000
@@ -1308,10 +1273,10 @@ Wire Wire Line
 	6500 9000 6750 9000
 Connection ~ 6750 9000
 $Comp
-L U4164AlogicAnalyser:5767007-8 J3
+L U4164AlogicAnalyser:5767007-8 CPchip2_J3
 U 1 1 5EE2719A
 P 14000 5100
-F 0 "J3" H 14000 6365 50  0000 C CNN
+F 0 "CPchip2_J3" H 14000 6365 50  0000 C CNN
 F 1 "5767007-8" H 14000 6274 50  0000 C CNN
 F 2 "U4164AlogicAnalyser:TE_5767007-8" H 14000 5100 50  0001 L BNN
 F 3 "Compliant" H 14000 5100 50  0001 L BNN
@@ -1323,10 +1288,10 @@ F 7 ".64" H 14000 5100 50  0001 L BNN "Field7"
 	1    0    0    -1  
 $EndComp
 $Comp
-L U4164AlogicAnalyser:5767007-8 J4
+L U4164AlogicAnalyser:5767007-8 CPchip2_J4
 U 1 1 5EE28695
 P 14000 8000
-F 0 "J4" H 14000 9265 50  0000 C CNN
+F 0 "CPchip2_J4" H 14000 9265 50  0000 C CNN
 F 1 "5767007-8" H 14000 9174 50  0000 C CNN
 F 2 "U4164AlogicAnalyser:TE_5767007-8" H 14000 8000 50  0001 L BNN
 F 3 "Compliant" H 14000 8000 50  0001 L BNN
@@ -1444,25 +1409,25 @@ select[0]
 Text GLabel 14500 7700 2    60   Input ~ 0
 select[1]
 Text GLabel 14500 7900 2    60   Input ~ 0
-io[17]
+o[17]
 Text GLabel 14500 8400 2    60   Input ~ 0
-io[12]
+o[12]
 Text GLabel 14500 8300 2    60   Input ~ 0
-io[13]
+o[13]
 Text GLabel 14500 8200 2    60   Input ~ 0
-io[14]
+o[14]
 Text GLabel 14500 8100 2    60   Input ~ 0
-io[15]
+o[15]
 Text GLabel 14500 8000 2    60   Input ~ 0
-io[16]
+o[16]
 Text GLabel 14500 8500 2    60   Input ~ 0
-io[11]
+o[11]
 Text GLabel 14500 8600 2    60   Input ~ 0
-io[10]
+o[10]
 Text GLabel 14500 8700 2    60   Input ~ 0
-io[9]
+o[9]
 Text GLabel 14500 8800 2    60   Input ~ 0
-io[8]
+o[8]
 Text GLabel 13500 5100 0    60   Input ~ 0
 o[0]
 NoConn ~ 13500 4100
@@ -1489,4 +1454,39 @@ Wire Notes Line
 	12350 9700 12350 3600
 Wire Notes Line
 	12350 3600 15800 3600
+Wire Wire Line
+	6500 7500 6850 7500
+$Comp
+L 3pinSwitchCustom:3pinSwitchCustom CPchip2_U11
+U 1 1 5F2E8F07
+P 2150 2400
+F 0 "CPchip2_U11" H 2150 2642 50  0000 C CNN
+F 1 "3pinSwitchCustom" H 2150 2551 50  0000 C CNN
+F 2 "SW_MS12ANW03:SW_MS12ANW03" H 2200 2050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 2150 2400 50  0001 C CNN
+	1    2150 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_Coaxial CPchip2_J1
+U 1 1 5F214842
+P 3000 1450
+F 0 "CPchip2_J1" H 3100 1425 50  0000 L CNN
+F 1 "Conn_Coaxial" H 3100 1334 50  0000 L CNN
+F 2 "bnc_connector:TE_227161-1" H 3000 1450 50  0001 C CNN
+F 3 " ~" H 3000 1450 50  0001 C CNN
+	1    3000 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3pinSwitchCustom:3pinSwitchCustom CPchip2_U6
+U 1 1 5F213BDC
+P 2150 1450
+F 0 "CPchip2_U6" H 2150 1692 50  0000 C CNN
+F 1 "3pinSwitchCustom" H 2150 1601 50  0000 C CNN
+F 2 "SW_MS12ANW03:SW_MS12ANW03" H 2200 1100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 2150 1450 50  0001 C CNN
+	1    2150 1450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

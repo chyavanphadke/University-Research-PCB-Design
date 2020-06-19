@@ -1,4 +1,4 @@
-update=6/10/2020 9:15:46 PM
+update=6/19/2020 12:20:37 AM
 version=1
 last_client=kicad
 [general]
@@ -26,7 +26,7 @@ ERC_TestSimilarLabels=1
 version=1
 PageLayoutDescrFile=
 LastNetListRead=ChipTwo.net
-CopperLayerCount=2
+CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
@@ -74,12 +74,12 @@ Type=0
 Enabled=1
 [pcbnew/Layer.In1.Cu]
 Name=In1.Cu
-Type=0
-Enabled=0
+Type=1
+Enabled=1
 [pcbnew/Layer.In2.Cu]
 Name=In2.Cu
-Type=0
-Enabled=0
+Type=1
+Enabled=1
 [pcbnew/Layer.In3.Cu]
 Name=In3.Cu
 Type=0
@@ -248,10 +248,10 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=Power
-Clearance=0.2
+Clearance=0.1
 TrackWidth=0.6
-ViaDiameter=8
-ViaDrill=0.4
+ViaDiameter=0.4
+ViaDrill=0.2
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2
