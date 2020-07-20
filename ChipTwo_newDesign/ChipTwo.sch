@@ -1272,188 +1272,8 @@ Connection ~ 10900 9000
 Wire Wire Line
 	6500 9000 6750 9000
 Connection ~ 6750 9000
-$Comp
-L U4164AlogicAnalyser:5767007-8 CPchip2_J3
-U 1 1 5EE2719A
-P 14000 5100
-F 0 "CPchip2_J3" H 14000 6365 50  0000 C CNN
-F 1 "5767007-8" H 14000 6274 50  0000 C CNN
-F 2 "U4164AlogicAnalyser:TE_5767007-8" H 14000 5100 50  0001 L BNN
-F 3 "Compliant" H 14000 5100 50  0001 L BNN
-F 4 "5767007-8" H 14000 5100 50  0001 L BNN "Field4"
-F 5 "Connector" H 14000 5100 50  0001 L BNN "Field5"
-F 6 "38" H 14000 5100 50  0001 L BNN "Field6"
-F 7 ".64" H 14000 5100 50  0001 L BNN "Field7"
-	1    14000 5100
-	1    0    0    -1  
-$EndComp
-$Comp
-L U4164AlogicAnalyser:5767007-8 CPchip2_J4
-U 1 1 5EE28695
-P 14000 8000
-F 0 "CPchip2_J4" H 14000 9265 50  0000 C CNN
-F 1 "5767007-8" H 14000 9174 50  0000 C CNN
-F 2 "U4164AlogicAnalyser:TE_5767007-8" H 14000 8000 50  0001 L BNN
-F 3 "Compliant" H 14000 8000 50  0001 L BNN
-F 4 "5767007-8" H 14000 8000 50  0001 L BNN "Field4"
-F 5 "Connector" H 14000 8000 50  0001 L BNN "Field5"
-F 6 "38" H 14000 8000 50  0001 L BNN "Field6"
-F 7 ".64" H 14000 8000 50  0001 L BNN "Field7"
-	1    14000 8000
-	1    0    0    -1  
-$EndComp
-Text GLabel 13500 4300 0    60   Input ~ 0
-clk
-Text GLabel 13500 4400 0    60   Input ~ 0
-io[6]
-Text GLabel 13500 4500 0    60   Input ~ 0
-io[5]
-Text GLabel 13500 4600 0    60   Input ~ 0
-io[4]
-Text GLabel 13500 4700 0    60   Input ~ 0
-io[3]
-Text GLabel 13500 4800 0    60   Input ~ 0
-io[2]
-Text GLabel 13500 4900 0    60   Input ~ 0
-io[1]
-Text GLabel 13500 5000 0    60   Input ~ 0
-io[0]
-Text GLabel 13500 5200 0    60   Input ~ 0
-i[0]
-Text GLabel 13500 5300 0    60   Input ~ 0
-clk
-Text GLabel 13500 5400 0    60   Input ~ 0
-reset
-Text GLabel 13500 5500 0    60   Input ~ 0
-SO
-Text GLabel 13500 5600 0    60   Input ~ 0
-SI
-Text GLabel 13500 5700 0    60   Input ~ 0
-SCLK
-Text GLabel 13500 5800 0    60   Input ~ 0
-scanEn
-Text GLabel 13500 5900 0    60   Input ~ 0
-testmode
-Text GLabel 14500 4300 2    60   Input ~ 0
-clk
-Text GLabel 14500 4400 2    60   Input ~ 0
-io[22]
-Text GLabel 14500 4500 2    60   Input ~ 0
-io[21]
-Text GLabel 14500 4600 2    60   Input ~ 0
-io[20]
-Text GLabel 14500 4700 2    60   Input ~ 0
-io[19]
-Text GLabel 14500 4800 2    60   Input ~ 0
-io[18]
-Text GLabel 14500 4900 2    60   Input ~ 0
-io[17]
-Text GLabel 14500 5400 2    60   Input ~ 0
-io[12]
-Text GLabel 14500 5300 2    60   Input ~ 0
-io[13]
-Text GLabel 14500 5200 2    60   Input ~ 0
-io[14]
-Text GLabel 14500 5100 2    60   Input ~ 0
-io[15]
-Text GLabel 14500 5000 2    60   Input ~ 0
-io[16]
-Text GLabel 14500 5900 2    60   Input ~ 0
-io[7]
-Text GLabel 14500 5800 2    60   Input ~ 0
-io[8]
-Text GLabel 14500 5700 2    60   Input ~ 0
-io[9]
-Text GLabel 14500 5600 2    60   Input ~ 0
-io[10]
-Text GLabel 14500 5500 2    60   Input ~ 0
-io[11]
-Text GLabel 13500 7200 0    60   Input ~ 0
-clk
-Text GLabel 14500 7200 2    60   Input ~ 0
-clk
-Text GLabel 13500 7900 0    60   Input ~ 0
-o[1]
-Text GLabel 13500 7800 0    60   Input ~ 0
-o[2]
-Text GLabel 13500 7700 0    60   Input ~ 0
-o[3]
-Text GLabel 13500 7600 0    60   Input ~ 0
-o[4]
-Text GLabel 13500 7500 0    60   Input ~ 0
-o[5]
-Text GLabel 13500 7400 0    60   Input ~ 0
-o[6]
-Text GLabel 13500 7300 0    60   Input ~ 0
-o[7]
-Text GLabel 13500 8000 0    60   Input ~ 0
-io[31]
-Text GLabel 13500 8100 0    60   Input ~ 0
-io[30]
-Text GLabel 13500 8200 0    60   Input ~ 0
-io[29]
-Text GLabel 13500 8300 0    60   Input ~ 0
-io[28]
-Text GLabel 13500 8400 0    60   Input ~ 0
-io[27]
-Text GLabel 13500 8500 0    60   Input ~ 0
-io[26]
-Text GLabel 13500 8600 0    60   Input ~ 0
-io[25]
-Text GLabel 13500 8700 0    60   Input ~ 0
-io[24]
-Text GLabel 13500 8800 0    60   Input ~ 0
-io[23]
-Text GLabel 14500 7800 2    60   Input ~ 0
-select[0]
-Text GLabel 14500 7700 2    60   Input ~ 0
-select[1]
-Text GLabel 14500 7900 2    60   Input ~ 0
-o[17]
-Text GLabel 14500 8400 2    60   Input ~ 0
-o[12]
-Text GLabel 14500 8300 2    60   Input ~ 0
-o[13]
-Text GLabel 14500 8200 2    60   Input ~ 0
-o[14]
-Text GLabel 14500 8100 2    60   Input ~ 0
-o[15]
-Text GLabel 14500 8000 2    60   Input ~ 0
-o[16]
-Text GLabel 14500 8500 2    60   Input ~ 0
-o[11]
-Text GLabel 14500 8600 2    60   Input ~ 0
-o[10]
-Text GLabel 14500 8700 2    60   Input ~ 0
-o[9]
-Text GLabel 14500 8800 2    60   Input ~ 0
-o[8]
-Text GLabel 13500 5100 0    60   Input ~ 0
-o[0]
-NoConn ~ 13500 4100
-NoConn ~ 13500 4200
-NoConn ~ 14500 4200
-NoConn ~ 14500 4100
-NoConn ~ 14500 7100
-NoConn ~ 14500 7000
-NoConn ~ 13500 7000
-NoConn ~ 13500 7100
-NoConn ~ 14500 7600
-NoConn ~ 14500 7500
-NoConn ~ 14500 7400
-NoConn ~ 14500 7300
-Text GLabel 14500 9000 2    39   Input ~ 0
-gnd
-Text GLabel 14500 6100 2    39   Input ~ 0
-gnd
-Wire Notes Line
-	15800 3600 15800 9700
 Wire Notes Line
 	15800 9700 12350 9700
-Wire Notes Line
-	12350 9700 12350 3600
-Wire Notes Line
-	12350 3600 15800 3600
 Wire Wire Line
 	6500 7500 6850 7500
 $Comp
@@ -1489,4 +1309,386 @@ F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 2150 1450 50  0001 C CNN
 	1    2150 1450
 	1    0    0    -1  
 $EndComp
+$Comp
+L Y1247AstimulusGenerator:E5403A_retention CPchip2_U9
+U 1 1 5F14923C
+P 14125 4150
+F 0 "CPchip2_U9" H 14100 5591 39  0000 C CNN
+F 1 "E5403A_retention" H 14100 5516 39  0000 C CNN
+F 2 "Y1247AstimulusGenerator:E5403A_retention" H 13425 5600 79  0001 C CNN
+F 3 "" H 13425 5600 79  0001 C CNN
+	1    14125 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Y1247AstimulusGenerator:E5403A_retention CPchip2_U10
+U 1 1 5F14A31F
+P 14100 7800
+F 0 "CPchip2_U10" H 14075 9241 39  0000 C CNN
+F 1 "E5403A_retention" H 14075 9166 39  0000 C CNN
+F 2 "Y1247AstimulusGenerator:E5403A_retention" H 13400 9250 79  0001 C CNN
+F 3 "" H 13400 9250 79  0001 C CNN
+	1    14100 7800
+	1    0    0    -1  
+$EndComp
+Text GLabel 13625 3600 0    60   Input ~ 0
+clk
+Text GLabel 13625 4300 0    60   Input ~ 0
+io[6]
+Text GLabel 13625 4200 0    60   Input ~ 0
+io[5]
+Text GLabel 14575 4100 2    60   Input ~ 0
+io[4]
+Text GLabel 14575 4000 2    60   Input ~ 0
+io[3]
+Text GLabel 13625 4000 0    60   Input ~ 0
+io[2]
+Text GLabel 13625 3900 0    60   Input ~ 0
+io[1]
+Text GLabel 14575 3800 2    60   Input ~ 0
+io[0]
+Text GLabel 14575 3500 2    60   Input ~ 0
+i[0]
+Text GLabel 14575 3400 2    60   Input ~ 0
+clk
+Text GLabel 13625 3400 0    60   Input ~ 0
+reset
+Text GLabel 13625 3300 0    60   Input ~ 0
+SO
+Text GLabel 14575 3200 2    60   Input ~ 0
+SI
+Text GLabel 14575 3100 2    60   Input ~ 0
+SCLK
+Text GLabel 13625 3100 0    60   Input ~ 0
+scanEn
+Text GLabel 13625 3000 0    60   Input ~ 0
+testmode
+Text GLabel 14575 3700 2    60   Input ~ 0
+o[0]
+Text GLabel 14575 5000 2    60   Input ~ 0
+clk
+Text GLabel 14575 5600 2    60   Input ~ 0
+io[22]
+Text GLabel 14575 5500 2    60   Input ~ 0
+io[21]
+Text GLabel 13625 5500 0    60   Input ~ 0
+io[20]
+Text GLabel 13625 5400 0    60   Input ~ 0
+io[19]
+Text GLabel 14575 5300 2    60   Input ~ 0
+io[18]
+Text GLabel 14575 5200 2    60   Input ~ 0
+io[17]
+Text GLabel 14575 4700 2    60   Input ~ 0
+io[12]
+Text GLabel 13625 4800 0    60   Input ~ 0
+io[13]
+Text GLabel 13625 4900 0    60   Input ~ 0
+io[14]
+Text GLabel 13625 5100 0    60   Input ~ 0
+io[15]
+Text GLabel 13625 5200 0    60   Input ~ 0
+io[16]
+Text GLabel 14575 4300 2    60   Input ~ 0
+io[7]
+Text GLabel 14575 4400 2    60   Input ~ 0
+io[8]
+Text GLabel 13625 4500 0    60   Input ~ 0
+io[9]
+Text GLabel 13625 4600 0    60   Input ~ 0
+io[10]
+Text GLabel 14575 4600 2    60   Input ~ 0
+io[11]
+Text GLabel 13600 7250 0    60   Input ~ 0
+clk
+Text GLabel 14550 7450 2    60   Input ~ 0
+o[1]
+Text GLabel 13600 7550 0    60   Input ~ 0
+o[2]
+Text GLabel 13600 7650 0    60   Input ~ 0
+o[3]
+Text GLabel 14550 7750 2    60   Input ~ 0
+o[5]
+Text GLabel 13600 7850 0    60   Input ~ 0
+o[6]
+Text GLabel 13600 7950 0    60   Input ~ 0
+o[7]
+Text GLabel 14550 7350 2    60   Input ~ 0
+io[31]
+Text GLabel 14550 7150 2    60   Input ~ 0
+io[30]
+Text GLabel 14550 7050 2    60   Input ~ 0
+io[29]
+Text GLabel 13600 7050 0    60   Input ~ 0
+io[28]
+Text GLabel 13600 6950 0    60   Input ~ 0
+io[27]
+Text GLabel 14550 6850 2    60   Input ~ 0
+io[26]
+Text GLabel 14550 6750 2    60   Input ~ 0
+io[25]
+Text GLabel 13600 6750 0    60   Input ~ 0
+io[24]
+Text GLabel 13600 6650 0    60   Input ~ 0
+io[23]
+Text GLabel 14550 8650 2    60   Input ~ 0
+clk
+Text GLabel 14550 8850 2    60   Input ~ 0
+select[0]
+Text GLabel 14550 8950 2    60   Input ~ 0
+select[1]
+Text GLabel 13600 8850 0    60   Input ~ 0
+o[17]
+Text GLabel 14550 8250 2    60   Input ~ 0
+o[12]
+Text GLabel 14550 8350 2    60   Input ~ 0
+o[13]
+Text GLabel 13600 8450 0    60   Input ~ 0
+o[14]
+Text GLabel 13600 8550 0    60   Input ~ 0
+o[15]
+Text GLabel 13600 8750 0    60   Input ~ 0
+o[16]
+Text GLabel 13600 8250 0    60   Input ~ 0
+o[11]
+Text GLabel 13600 8150 0    60   Input ~ 0
+o[10]
+Text GLabel 14550 8050 2    60   Input ~ 0
+o[9]
+Text GLabel 14550 7950 2    60   Input ~ 0
+o[8]
+Text GLabel 15275 4075 2    60   Input ~ 0
+gnd
+Wire Wire Line
+	14575 3000 15125 3000
+Wire Wire Line
+	15125 3000 15125 3300
+Wire Wire Line
+	15125 5400 14575 5400
+Wire Wire Line
+	14575 5100 15125 5100
+Connection ~ 15125 5100
+Wire Wire Line
+	15125 5100 15125 5400
+Wire Wire Line
+	14575 4900 14575 4850
+Wire Wire Line
+	14575 4850 15125 4850
+Connection ~ 14575 4850
+Wire Wire Line
+	14575 4850 14575 4800
+Connection ~ 15125 4850
+Wire Wire Line
+	15125 4850 15125 5100
+Wire Wire Line
+	14575 4500 15125 4500
+Connection ~ 15125 4500
+Wire Wire Line
+	15125 4500 15125 4850
+Wire Wire Line
+	14575 4200 15125 4200
+Connection ~ 15125 4200
+Wire Wire Line
+	15125 4200 15125 4500
+Wire Wire Line
+	15275 4075 15125 4075
+Connection ~ 15125 4075
+Wire Wire Line
+	15125 4075 15125 4200
+Wire Wire Line
+	14575 3900 15125 3900
+Connection ~ 15125 3900
+Wire Wire Line
+	15125 3900 15125 4075
+Wire Wire Line
+	14575 3600 15125 3600
+Connection ~ 15125 3600
+Wire Wire Line
+	15125 3600 15125 3900
+Wire Wire Line
+	14575 3300 15125 3300
+Connection ~ 15125 3300
+Wire Wire Line
+	15125 3300 15125 3600
+Wire Wire Line
+	13625 3200 12975 3200
+Wire Wire Line
+	12975 3200 12975 3500
+Wire Wire Line
+	12975 3700 13625 3700
+Wire Wire Line
+	13625 3800 12975 3800
+Wire Wire Line
+	12975 3800 12975 3700
+Connection ~ 12975 3700
+Wire Wire Line
+	13625 4100 12975 4100
+Wire Wire Line
+	12975 4100 12975 3800
+Connection ~ 12975 3800
+Wire Wire Line
+	12975 4100 12975 4400
+Wire Wire Line
+	12975 5600 13625 5600
+Connection ~ 12975 4100
+Wire Wire Line
+	13625 5300 12975 5300
+Connection ~ 12975 5300
+Wire Wire Line
+	12975 5300 12975 5600
+Wire Wire Line
+	13625 5000 12975 5000
+Connection ~ 12975 5000
+Wire Wire Line
+	12975 5000 12975 5300
+Wire Wire Line
+	13625 4700 12975 4700
+Connection ~ 12975 4700
+Wire Wire Line
+	12975 4700 12975 5000
+Wire Wire Line
+	13625 4400 12975 4400
+Connection ~ 12975 4400
+Wire Wire Line
+	12975 4400 12975 4700
+Wire Wire Line
+	15125 3000 15125 2650
+Wire Wire Line
+	15125 2650 12975 2650
+Wire Wire Line
+	12975 2650 12975 3200
+Connection ~ 15125 3000
+Connection ~ 12975 3200
+Wire Wire Line
+	13625 3500 12975 3500
+Connection ~ 12975 3500
+Wire Wire Line
+	12975 3500 12975 3700
+NoConn ~ 13600 9050
+NoConn ~ 13600 9150
+NoConn ~ 14550 9150
+NoConn ~ 14550 9250
+Wire Wire Line
+	14550 9050 15150 9050
+Wire Wire Line
+	15150 6650 14550 6650
+Wire Wire Line
+	14550 6950 15150 6950
+Wire Wire Line
+	15150 6650 15150 6950
+Connection ~ 15150 6950
+Wire Wire Line
+	15150 6950 15150 7250
+Wire Wire Line
+	14550 7250 15150 7250
+Connection ~ 15150 7250
+Wire Wire Line
+	15150 7250 15150 7550
+Wire Wire Line
+	14550 7550 15150 7550
+Connection ~ 15150 7550
+Wire Wire Line
+	15150 7550 15150 7725
+Wire Wire Line
+	14550 7850 15150 7850
+Connection ~ 15150 7850
+Wire Wire Line
+	15150 7850 15150 8150
+Wire Wire Line
+	14550 8150 15150 8150
+Connection ~ 15150 8150
+Wire Wire Line
+	15150 8150 15150 8500
+Wire Wire Line
+	14550 8450 14775 8450
+Wire Wire Line
+	14775 8450 14775 8500
+Wire Wire Line
+	14775 8550 14550 8550
+Wire Wire Line
+	14775 8500 15150 8500
+Connection ~ 14775 8500
+Wire Wire Line
+	14775 8500 14775 8550
+Connection ~ 15150 8500
+Wire Wire Line
+	15150 8500 15150 8750
+Wire Wire Line
+	14550 8750 15150 8750
+Connection ~ 15150 8750
+Wire Wire Line
+	15150 8750 15150 9050
+Wire Wire Line
+	13600 8950 13075 8950
+Wire Wire Line
+	13075 8950 13075 8650
+Wire Wire Line
+	13075 6850 13600 6850
+Wire Wire Line
+	13600 7150 13075 7150
+Connection ~ 13075 7150
+Wire Wire Line
+	13075 7150 13075 6850
+Wire Wire Line
+	13600 7350 13525 7350
+Wire Wire Line
+	13525 7350 13525 7400
+Wire Wire Line
+	13525 7450 13600 7450
+Wire Wire Line
+	13525 7400 13075 7400
+Connection ~ 13525 7400
+Wire Wire Line
+	13525 7400 13525 7450
+Connection ~ 13075 7400
+Wire Wire Line
+	13075 7400 13075 7150
+Wire Wire Line
+	13600 7750 13075 7750
+Connection ~ 13075 7750
+Wire Wire Line
+	13075 7750 13075 7400
+Wire Wire Line
+	13600 8050 13075 8050
+Connection ~ 13075 8050
+Wire Wire Line
+	13075 8050 13075 7750
+Wire Wire Line
+	13600 8350 13075 8350
+Connection ~ 13075 8350
+Wire Wire Line
+	13075 8350 13075 8050
+Wire Wire Line
+	13600 8650 13075 8650
+Connection ~ 13075 8650
+Wire Wire Line
+	13075 8650 13075 8350
+Text GLabel 15275 7725 2    60   Input ~ 0
+gnd
+Wire Wire Line
+	15275 7725 15150 7725
+Connection ~ 15150 7725
+Wire Wire Line
+	15150 7725 15150 7850
+Wire Notes Line
+	15800 1975 12350 1975
+Wire Notes Line
+	15800 1975 15800 9700
+Wire Notes Line
+	12350 1975 12350 9700
+Wire Wire Line
+	15150 6650 15150 6225
+Wire Wire Line
+	15150 6225 13075 6225
+Wire Wire Line
+	13075 6225 13075 6850
+Connection ~ 15150 6650
+Connection ~ 13075 6850
+Text GLabel 14550 7650 2    60   Input ~ 0
+o[4]
+Wire Wire Line
+	13600 9250 13075 9250
+Wire Wire Line
+	13075 9250 13075 8950
+Connection ~ 13075 8950
 $EndSCHEMATC

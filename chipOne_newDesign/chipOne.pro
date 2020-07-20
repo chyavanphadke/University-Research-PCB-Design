@@ -1,4 +1,4 @@
-update=6/19/2020 12:20:37 AM
+update=7/20/2020 2:01:56 AM
 version=1
 last_client=kicad
 [general]
@@ -12,20 +12,10 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceAjustPassiveValues=0
-LabSize=39
-ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=ChipTwo.net
+LastNetListRead=chipOne.net
 CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=0
@@ -250,10 +240,20 @@ dPairViaGap=0.25
 Name=Power
 Clearance=0.1
 TrackWidth=0.6
-ViaDiameter=0.4
-ViaDrill=0.2
+ViaDiameter=0.6
+ViaDrill=0.4
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=79
+ERC_TestSimilarLabels=1

@@ -1,8 +1,8 @@
-Reference, Quantity, Value, Footprint, Datasheet, Field4, Field5, Field6, Field7
+Reference, Quantity, Value, Footprint, Datasheet
 CPchip1_C1 CPchip1_C5 CPchip1_C9 CPchip1_C13 CPchip1_C2 CPchip1_C6 CPchip1_C10 CPchip1_C14 ,8,"10uF","Capacitors_SMD:C_1206_HandSoldering","~"
 CPchip1_C3 CPchip1_C7 CPchip1_C11 CPchip1_C15 CPchip1_C4 CPchip1_C8 CPchip1_C12 CPchip1_C16 ,8,"100uF","Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand","~"
 CPchip1_J1 CPchip1_J2 ,2,"BNC","bnc_connector:TE_227161-1"," ~"
-CPchip1_J3 CPchip1_J4 ,2,"5767007-8","U4164AlogicAnalyser:TE_5767007-8","Compliant","5767007-8","Connector","38",".64"
 CPchip1_U4 CPchip1_U3 CPchip1_U2 CPchip1_U1 ,4,"Y1247AstimulusGenerator","Y1247AstimulusGenerator:ERF8-030-05.0-L-DV-L-TR",""
 CPchip1_U5 ,1,"CPchip1_CHIP1","chip1:280-5205-01",""
 CPchip1_U6 CPchip1_U10A1 ,2,"3pinSwitchCustom","SW_MS12ANW03:SW_MS12ANW03","http://www.ti.com/lit/ds/symlink/ts5a3159.pdf"
+CPchip1_U9 CPchip1_U10 ,2,"E5403A_retention","Y1247AstimulusGenerator:E5403A_retention",""

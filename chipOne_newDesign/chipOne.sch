@@ -1266,186 +1266,246 @@ F 3 "http://www.ti.com/lit/ds/symlink/ts5a3159.pdf" H 3750 1300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 1400 1450 1400
-$Comp
-L U4164AlogicAnalyser:5767007-8 CPchip1_J3
-U 1 1 5EDFE2BC
-P 13850 5050
-F 0 "CPchip1_J3" H 13850 6315 50  0000 C CNN
-F 1 "5767007-8" H 13850 6224 50  0000 C CNN
-F 2 "U4164AlogicAnalyser:TE_5767007-8" H 13850 5050 50  0001 L BNN
-F 3 "Compliant" H 13850 5050 50  0001 L BNN
-F 4 "5767007-8" H 13850 5050 50  0001 L BNN "Field4"
-F 5 "Connector" H 13850 5050 50  0001 L BNN "Field5"
-F 6 "38" H 13850 5050 50  0001 L BNN "Field6"
-F 7 ".64" H 13850 5050 50  0001 L BNN "Field7"
-	1    13850 5050
-	1    0    0    -1  
-$EndComp
-Text GLabel 14350 4250 2    60   Input ~ 0
-I_clk
-Text GLabel 14350 4350 2    60   Input ~ 0
-B_inData_bi1
-Text GLabel 14350 4450 2    60   Input ~ 0
-B_inData_bi0
-Text GLabel 14350 4550 2    60   Input ~ 0
-O_outData7
-Text GLabel 14350 4650 2    60   Input ~ 0
-O_outData6
-Text GLabel 14350 4750 2    60   Input ~ 0
-O_outData5
-Text GLabel 14350 4850 2    60   Input ~ 0
-O_outData4
-Text GLabel 14350 4950 2    60   Input ~ 0
-O_outData3
-Text GLabel 14350 5050 2    60   Input ~ 0
-O_outData2
-Text GLabel 14350 5150 2    60   Input ~ 0
-O_outData1
-Text GLabel 14350 5250 2    60   Input ~ 0
-I_inData3
-Text GLabel 14350 5350 2    60   Input ~ 0
-I_inData2
-Text GLabel 14350 5450 2    60   Input ~ 0
-I_inData1
-Text GLabel 14350 5550 2    60   Input ~ 0
-O_outData0
-Text GLabel 14350 5650 2    60   Input ~ 0
-I_inData0
-Text GLabel 14350 5750 2    60   Input ~ 0
-I_clk
-Text GLabel 14350 5850 2    60   Input ~ 0
-I_reset
-Text GLabel 13350 5850 0    60   Input ~ 0
-VDDQ
-Text GLabel 13350 5750 0    60   Input ~ 0
-O_DOUT
-Text GLabel 13350 5650 0    60   Input ~ 0
-I_DIN
-Text GLabel 13350 5550 0    60   Input ~ 0
-I_PGM
-Text GLabel 13350 5450 0    60   Input ~ 0
-I_FCLK
-Text GLabel 13350 5350 0    60   Input ~ 0
-I_SEL4
-Text GLabel 13350 5250 0    60   Input ~ 0
-I_SEL3
-Text GLabel 13350 5150 0    60   Input ~ 0
-I_SEL2
-Text GLabel 13350 5050 0    60   Input ~ 0
-I_SEL1
-Text GLabel 13350 4950 0    60   Input ~ 0
-I_SEL0
-Text GLabel 13350 4850 0    60   Input ~ 0
-I_enable
-Text GLabel 13350 4750 0    60   Input ~ 0
-I_testmode
-Text GLabel 13350 4650 0    60   Input ~ 0
-I_scanEn
-Text GLabel 13350 4550 0    60   Input ~ 0
-I_SCLK
-Text GLabel 13350 4450 0    60   Input ~ 0
-I_SI
-Text GLabel 13350 4350 0    60   Input ~ 0
-O_SO
-Text GLabel 13350 4250 0    60   Input ~ 0
-I_clk
-Text GLabel 14350 6050 2    39   Input ~ 0
-gnd
-NoConn ~ 14350 4150
-NoConn ~ 14350 4050
-NoConn ~ 13350 4150
-NoConn ~ 13350 4050
 Wire Wire Line
 	3350 1400 3450 1400
+Text Notes 12125 9200 0    71   Italic 14
+Logic Analyzer Connectors (E5406A) - Contactless connector
+Text GLabel 14350 2475 2    39   Input ~ 0
+gnd
+Text GLabel 13400 2475 0    60   Input ~ 0
+VDDQ
+Text GLabel 13400 2575 0    60   Input ~ 0
+O_DOUT
+Text GLabel 14350 2575 2    60   Input ~ 0
+I_DIN
+Text GLabel 14350 2675 2    60   Input ~ 0
+I_PGM
+Text GLabel 13400 2775 0    60   Input ~ 0
+I_FCLK
+Text GLabel 13400 2875 0    60   Input ~ 0
+I_SEL4
+Text GLabel 14350 2875 2    60   Input ~ 0
+I_SEL3
+Text GLabel 14350 2975 2    60   Input ~ 0
+I_SEL2
+Text GLabel 14350 3175 2    60   Input ~ 0
+I_SEL1
+Text GLabel 14350 3275 2    60   Input ~ 0
+I_SEL0
+Text GLabel 13400 3375 0    60   Input ~ 0
+I_enable
+Text GLabel 13400 3475 0    60   Input ~ 0
+I_testmode
+Text GLabel 14350 3475 2    60   Input ~ 0
+I_scanEn
+Text GLabel 14350 3575 2    60   Input ~ 0
+I_SCLK
+Text GLabel 13400 3675 0    60   Input ~ 0
+I_SI
+Text GLabel 13400 3775 0    60   Input ~ 0
+O_SO
+Text GLabel 13400 3075 0    60   Input ~ 0
+I_clk
 $Comp
-L U4164AlogicAnalyser:5767007-8 CPchip1_J4
-U 1 1 5EE04108
-P 13850 7950
-F 0 "CPchip1_J4" H 13850 9215 50  0000 C CNN
-F 1 "5767007-8" H 13850 9124 50  0000 C CNN
-F 2 "U4164AlogicAnalyser:TE_5767007-8" H 13850 7950 50  0001 L BNN
-F 3 "Compliant" H 13850 7950 50  0001 L BNN
-F 4 "5767007-8" H 13850 7950 50  0001 L BNN "Field4"
-F 5 "Connector" H 13850 7950 50  0001 L BNN "Field5"
-F 6 "38" H 13850 7950 50  0001 L BNN "Field6"
-F 7 ".64" H 13850 7950 50  0001 L BNN "Field7"
-	1    13850 7950
+L Y1247AstimulusGenerator:E5403A_retention CPchip1_U9
+U 1 1 5F17DF07
+P 13900 3625
+F 0 "CPchip1_U9" H 13875 5066 39  0000 C CNN
+F 1 "E5403A_retention" H 13875 4991 39  0000 C CNN
+F 2 "Y1247AstimulusGenerator:E5403A_retention" H 13200 5075 79  0001 C CNN
+F 3 "" H 13200 5075 79  0001 C CNN
+	1    13900 3625
 	1    0    0    -1  
 $EndComp
-Text GLabel 13350 7150 0    60   Input ~ 0
+Text GLabel 14350 4475 2    60   Input ~ 0
 I_clk
-Text GLabel 14350 7150 2    60   Input ~ 0
+Text GLabel 14350 5075 2    60   Input ~ 0
+B_inData_bi1
+Text GLabel 14350 4975 2    60   Input ~ 0
+B_inData_bi0
+Text GLabel 13400 4975 0    60   Input ~ 0
+O_outData7
+Text GLabel 13400 4875 0    60   Input ~ 0
+O_outData6
+Text GLabel 14350 4775 2    60   Input ~ 0
+O_outData5
+Text GLabel 14350 4675 2    60   Input ~ 0
+O_outData4
+Text GLabel 13400 4675 0    60   Input ~ 0
+O_outData3
+Text GLabel 13400 4575 0    60   Input ~ 0
+O_outData2
+Text GLabel 13400 4375 0    60   Input ~ 0
+O_outData1
+Text GLabel 13400 4275 0    60   Input ~ 0
+I_inData3
+Text GLabel 14350 4175 2    60   Input ~ 0
+I_inData2
+Text GLabel 14350 4075 2    60   Input ~ 0
+I_inData1
+Text GLabel 13400 4075 0    60   Input ~ 0
+O_outData0
+Text GLabel 13400 3975 0    60   Input ~ 0
+I_inData0
+Text GLabel 14350 3875 2    60   Input ~ 0
 I_clk
-Text GLabel 14350 8050 2    60   Input ~ 0
-I_address5
-Text GLabel 14350 8150 2    60   Input ~ 0
-I_address4
-Text GLabel 14350 8250 2    60   Input ~ 0
-I_address3
-Text GLabel 14350 8350 2    60   Input ~ 0
-I_address2
-Text GLabel 14350 8450 2    60   Input ~ 0
-I_address1
-Text GLabel 14350 8550 2    60   Input ~ 0
-I_address0
-Text GLabel 14350 8650 2    60   Input ~ 0
-B_outData_bi7
-Text GLabel 14350 8750 2    60   Input ~ 0
-B_outData_bi6
-Text GLabel 13350 8750 0    60   Input ~ 0
-B_inData_bi2
-Text GLabel 13350 8650 0    60   Input ~ 0
-B_inData_bi3
-Text GLabel 13350 8550 0    60   Input ~ 0
-B_inData_bi4
-Text GLabel 13350 8450 0    60   Input ~ 0
-B_inData_bi5
-Text GLabel 13350 8350 0    60   Input ~ 0
-B_inData_bi6
-Text GLabel 13350 8150 0    60   Input ~ 0
-B_inData_bi8
-Text GLabel 13350 8250 0    60   Input ~ 0
-B_inData_bi7
-Text GLabel 13350 8050 0    60   Input ~ 0
-B_inData_bi9
-Text GLabel 13350 7950 0    60   Input ~ 0
-B_inData_bi10
-Text GLabel 13350 7850 0    60   Input ~ 0
-B_inData_bi11
-Text GLabel 13350 7750 0    60   Input ~ 0
-B_outData_bi0
-Text GLabel 13350 7650 0    60   Input ~ 0
-B_outData_bi1
-Text GLabel 13350 7550 0    60   Input ~ 0
-B_outData_bi2
-Text GLabel 13350 7450 0    60   Input ~ 0
-B_outData_bi3
-Text GLabel 13350 7350 0    60   Input ~ 0
-B_outData_bi4
-Text GLabel 13350 7250 0    60   Input ~ 0
-B_outData_bi5
-Text GLabel 14350 8950 2    39   Input ~ 0
+Text GLabel 14350 3775 2    60   Input ~ 0
+I_reset
+Text GLabel 14350 2775 2    39   Input ~ 0
 gnd
-NoConn ~ 14350 6950
-NoConn ~ 14350 7050
-NoConn ~ 13350 7050
-NoConn ~ 13350 6950
-NoConn ~ 14350 7250
-NoConn ~ 14350 7350
-NoConn ~ 14350 7450
-NoConn ~ 14350 7550
-NoConn ~ 14350 7650
-NoConn ~ 14350 7950
-NoConn ~ 14350 7850
-NoConn ~ 14350 7750
+Text GLabel 14350 3075 2    39   Input ~ 0
+gnd
+Text GLabel 14350 3375 2    39   Input ~ 0
+gnd
+Text GLabel 14350 3675 2    39   Input ~ 0
+gnd
+Text GLabel 14350 3975 2    39   Input ~ 0
+gnd
+Text GLabel 14350 4275 2    39   Input ~ 0
+gnd
+Text GLabel 14350 4375 2    39   Input ~ 0
+gnd
+Text GLabel 14350 4575 2    39   Input ~ 0
+gnd
+Text GLabel 14350 4875 2    39   Input ~ 0
+gnd
+Text GLabel 13400 2675 0    39   Input ~ 0
+gnd
+Text GLabel 13400 2975 0    39   Input ~ 0
+gnd
+Text GLabel 13400 3175 0    39   Input ~ 0
+gnd
+Text GLabel 13400 3275 0    39   Input ~ 0
+gnd
+Text GLabel 13400 3575 0    39   Input ~ 0
+gnd
+Text GLabel 13400 3875 0    39   Input ~ 0
+gnd
+Text GLabel 13400 4175 0    39   Input ~ 0
+gnd
+Text GLabel 13400 4475 0    39   Input ~ 0
+gnd
+Text GLabel 13400 4775 0    39   Input ~ 0
+gnd
+Text GLabel 13400 5075 0    39   Input ~ 0
+gnd
+$Comp
+L Y1247AstimulusGenerator:E5403A_retention CPchip1_U10
+U 1 1 5F19A543
+P 13925 6975
+F 0 "CPchip1_U10" H 13900 8416 39  0000 C CNN
+F 1 "E5403A_retention" H 13900 8341 39  0000 C CNN
+F 2 "Y1247AstimulusGenerator:E5403A_retention" H 13225 8425 79  0001 C CNN
+F 3 "" H 13225 8425 79  0001 C CNN
+	1    13925 6975
+	1    0    0    -1  
+$EndComp
+Text GLabel 13425 5825 0    60   Input ~ 0
+B_inData_bi2
+Text GLabel 13425 5925 0    60   Input ~ 0
+B_inData_bi3
+Text GLabel 14375 5925 2    60   Input ~ 0
+B_inData_bi4
+Text GLabel 14375 6025 2    60   Input ~ 0
+B_inData_bi5
+Text GLabel 13425 6125 0    60   Input ~ 0
+B_inData_bi6
+Text GLabel 14375 6225 2    60   Input ~ 0
+B_inData_bi8
+Text GLabel 13425 6225 0    60   Input ~ 0
+B_inData_bi7
+Text GLabel 14375 6325 2    60   Input ~ 0
+B_inData_bi9
+Text GLabel 14375 6525 2    60   Input ~ 0
+B_inData_bi10
+Text GLabel 14375 6625 2    60   Input ~ 0
+B_inData_bi11
+Text GLabel 13425 6725 0    60   Input ~ 0
+B_outData_bi0
+Text GLabel 13425 6825 0    60   Input ~ 0
+B_outData_bi1
+Text GLabel 14375 6825 2    60   Input ~ 0
+B_outData_bi2
+Text GLabel 14375 6925 2    60   Input ~ 0
+B_outData_bi3
+Text GLabel 13425 7025 0    60   Input ~ 0
+B_outData_bi4
+Text GLabel 13425 7125 0    60   Input ~ 0
+B_outData_bi5
+Text GLabel 13425 7725 0    60   Input ~ 0
+I_address5
+Text GLabel 13425 7625 0    60   Input ~ 0
+I_address4
+Text GLabel 14375 7525 2    60   Input ~ 0
+I_address3
+Text GLabel 14375 7425 2    60   Input ~ 0
+I_address2
+Text GLabel 13425 7425 0    60   Input ~ 0
+I_address1
+Text GLabel 13425 7325 0    60   Input ~ 0
+I_address0
+Text GLabel 14375 7225 2    60   Input ~ 0
+B_outData_bi7
+Text GLabel 14375 7125 2    60   Input ~ 0
+B_outData_bi6
+NoConn ~ 13425 7925
+NoConn ~ 13425 8025
+NoConn ~ 14375 8025
+NoConn ~ 14375 8125
+NoConn ~ 13425 8225
+NoConn ~ 13425 8325
+NoConn ~ 14375 8325
+NoConn ~ 14375 8425
+Text GLabel 13425 6425 0    60   Input ~ 0
+I_clk
+Text GLabel 14375 7825 2    60   Input ~ 0
+I_clk
+Text GLabel 14375 5825 2    39   Input ~ 0
+gnd
+Text GLabel 14375 6125 2    39   Input ~ 0
+gnd
+Text GLabel 14375 6425 2    39   Input ~ 0
+gnd
+Text GLabel 14375 6725 2    39   Input ~ 0
+gnd
+Text GLabel 14375 7025 2    39   Input ~ 0
+gnd
+Text GLabel 14375 7325 2    39   Input ~ 0
+gnd
+Text GLabel 14375 7625 2    39   Input ~ 0
+gnd
+Text GLabel 14375 7725 2    39   Input ~ 0
+gnd
+Text GLabel 14375 7925 2    39   Input ~ 0
+gnd
+Text GLabel 14375 8225 2    39   Input ~ 0
+gnd
+Text GLabel 13425 8425 0    39   Input ~ 0
+gnd
+Text GLabel 13425 8125 0    39   Input ~ 0
+gnd
+Text GLabel 13425 7825 0    39   Input ~ 0
+gnd
+Text GLabel 13425 7525 0    39   Input ~ 0
+gnd
+Text GLabel 13425 7225 0    39   Input ~ 0
+gnd
+Text GLabel 13425 6925 0    39   Input ~ 0
+gnd
+Text GLabel 13425 6625 0    39   Input ~ 0
+gnd
+Text GLabel 13425 6525 0    39   Input ~ 0
+gnd
+Text GLabel 13425 6325 0    39   Input ~ 0
+gnd
+Text GLabel 13425 6025 0    39   Input ~ 0
+gnd
 Wire Notes Line
-	12050 3700 15600 3700
+	11950 1725 15700 1725
 Wire Notes Line
-	15600 3700 15600 9350
+	15700 1725 15700 9350
 Wire Notes Line
-	15600 9350 12050 9350
+	15700 9350 11950 9350
 Wire Notes Line
-	12050 9350 12050 3700
-Text Notes 12150 9250 0    79   Italic 16
-Logic Analyzer Connectors (U4205)
+	11950 1725 11950 9350
 $EndSCHEMATC
