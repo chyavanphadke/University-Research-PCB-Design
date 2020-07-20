@@ -1,0 +1,8 @@
+Reference, Quantity, Value, Footprint, Datasheet, Field4, Field5, Field6, Field7
+CPchip2_C1 CPchip2_C5 CPchip2_C9 CPchip2_C13 CPchip2_C2 CPchip2_C6 CPchip2_C10 CPchip2_C14 ,8,"10uF","Capacitors_SMD:C_1206_HandSoldering","~"
+CPchip2_C3 CPchip2_C7 CPchip2_C11 CPchip2_C15 CPchip2_C4 CPchip2_C8 CPchip2_C12 CPchip2_C16 ,8,"100uF","Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand","~"
+CPchip2_J2 CPchip2_J1 ,2,"Conn_Coaxial","bnc_connector:TE_227161-1"," ~"
+CPchip2_J3 CPchip2_J4 ,2,"5767007-8","U4164AlogicAnalyser:TE_5767007-8","Compliant","5767007-8","Connector","38",".64"
+CPchip2_U1 CPchip2_U3 CPchip2_U2 CPchip2_U4 ,4,"Y1247AstimulusGenerator","Y1247AstimulusGenerator:ERF8-030-05.0-L-DV-L-TR",""
+CPchip2_U11 CPchip2_U6 ,2,"3pinSwitchCustom","SW_MS12ANW03:SW_MS12ANW03","http://www.ti.com/lit/ds/symlink/ts5a3159.pdf"
+CPchip2_U5 ,1,"CPchip2_CHIP2","chip1:280-5205-01",""
